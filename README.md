@@ -52,8 +52,27 @@ I am doing MSc in Data Analytics <img src="https://media.giphy.com/media/WUlplcM
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ravjyotduggal&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-### ✍️ Blog Posts : 
-- [How to Create REST APIs with Java and Spring Boot](https://www.twilio.com/blog/create-rest-apis-java-spring-boot)
-- [How to Implement Memoization in React to Improve Performance](https://www.sitepoint.com/implement-memoization-in-react-to-improve-performance/)<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+```javascript
+const ravjyot = {
+    pronouns: "He" | "Him",
+    code: ["Python", "JavaScript", "R"],
+    askMeAbout: ["Automation", "SQL", "tech", "Machine Learning", "photography"],
+    technologies: {
+        Python: {
+            js: ["Automation", "Data Science", "Web dev"],
+        },
+        databases: {
+            native: ["Microsoft SQL", "PostgreSQL", "MongoDB"]
+        },
+        Visualization: {
+            native: ["Tableau", "PowerBI"]
+        },
+        devOps: ["AWS", "Docker🐳", "Git"],
+        misc: ["selenium", "open-cv", "PowerApps", "PowerAutomate"]
+    },
+    currentFocus: "Building Robots to ease opertations",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
