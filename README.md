@@ -60,7 +60,7 @@ const ravjyot = {
     code: ["Python", "JavaScript", "R"],
     askMeAbout: ["Automation", "SQL", "tech", "Machine Learning", "photography"],
     technologies: {
-        Programming Language: {
+        Programming: {
             Python: ["Automation", "Data Science", "Web dev"],
         },
         databases: {
